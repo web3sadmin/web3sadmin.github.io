@@ -3,9 +3,11 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
-      { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
+      { name: "Outlook", url: "https://outlook.office.com/mail/" },
+      { name: "OneDrive", url: "https://mih-my.sharepoint.com/" },
+//      { name: "Inbox", url: "https://inbox.google.com" },
+//      { name: "GitHub", url: "https://github.com" },
+//      { name: "Drive", url: "https://drive.google.com" },
     ],
   },
   {
