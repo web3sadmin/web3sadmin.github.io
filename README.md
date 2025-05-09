@@ -1,4 +1,4 @@
-# [Homepage](https://danggoodcode.com/startpage)
+# [Homepage](https://web3sadmin.github.io/startpage)
 
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
 
